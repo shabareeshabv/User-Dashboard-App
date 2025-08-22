@@ -1,3 +1,42 @@
+# User Dashboard
+
+A responsive User Management Dashboard built with React, Vite, and Tailwind CSS.  
+Manage users, view details, and search/filter users with a modern UI.
+
+# Tech Stack
+
+- Frontend: React, Vite, Tailwind CSS
+- Routing: React Router
+- State Management: React Context API
+- Icons: react-icons
+- Deployment: Vercel / Netlify
+
+# Features
+
+- Add new users dynamically
+- Search users by name with real-time filtering
+- View detailed user information
+- Fully responsive layout
+- Smooth animations and hover effects
+- Modular component structure
+
+# Project Structure
+src/
+│
+├─ components/
+│ ├─ UserCard.jsx
+│ └─ UserForm.jsx
+│
+├─ context/
+│ └─ UserContext.jsx
+│
+├─ pages/
+│ ├─ Dashboard.jsx
+│ └─ UserDetails.jsx
+│
+└─ App.jsx
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
