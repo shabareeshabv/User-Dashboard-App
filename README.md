@@ -36,6 +36,20 @@ src/
 │
 └─ App.jsx
 
+## Usage
+
+Clone the repository:
+git clone <your-repo-url>
+cd user-dashboard-app
+
+Install dependencies:
+npm install
+
+Run the project locally:
+npm run dev
+
+Open in browser:
+http://localhost:5173
 
 # React + Vite
 
